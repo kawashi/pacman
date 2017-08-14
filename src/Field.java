@@ -1,6 +1,6 @@
 import static java.awt.event.KeyEvent.*;
 
-public class Field {git
+public class Field {
     private int[][] fieldState = {
             {1,0,0},
             {0,0,0},
